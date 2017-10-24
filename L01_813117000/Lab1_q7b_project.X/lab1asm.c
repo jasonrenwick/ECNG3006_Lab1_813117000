@@ -1,3 +1,4 @@
+/* Lab 1 - ID number 813117000 */
 #include <p18f452.h>
 #include <delays.h>
 #include "xlcd_grpd.h"
